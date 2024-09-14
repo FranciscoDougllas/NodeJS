@@ -1,0 +1,9 @@
+# NodeJS
+ Estudos e Desenvolvimento Node.JS
+
+# Comando para execução altomatica
+    node --watch
+    exemplo node --watch src/index.js
+    npm init = Inicia um novo projeto
+    npm init -y = Cria sem perguntas
+    node nome-arquivo = roda o arquivo
